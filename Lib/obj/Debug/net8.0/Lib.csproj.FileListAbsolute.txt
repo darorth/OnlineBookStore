@@ -1,0 +1,11 @@
+/Users/macbook/backend/dotnet/BooksStore/Lib/bin/Debug/net8.0/Lib.deps.json
+/Users/macbook/backend/dotnet/BooksStore/Lib/bin/Debug/net8.0/Lib.dll
+/Users/macbook/backend/dotnet/BooksStore/Lib/bin/Debug/net8.0/Lib.pdb
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/Lib.AssemblyInfoInputs.cache
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/Lib.AssemblyInfo.cs
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/Lib.csproj.CoreCompileInputs.cache
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/Lib.dll
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/refint/Lib.dll
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/Lib.pdb
+/Users/macbook/backend/dotnet/BooksStore/Lib/obj/Debug/net8.0/ref/Lib.dll

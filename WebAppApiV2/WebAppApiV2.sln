@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppApiV2", "WebAppApiV2\WebAppApiV2.csproj", "{36D9A904-2143-4078-BA53-281107948019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "..\Lib\Lib.csproj", "{B7CF47C1-98E5-45FF-8F0F-9464A24BEBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMvc", "..\WebAppMvc\WebAppMvc.csproj", "{365AEB02-8C40-475F-9D3F-1C07653E285A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D9A904-2143-4078-BA53-281107948019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D9A904-2143-4078-BA53-281107948019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D9A904-2143-4078-BA53-281107948019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D9A904-2143-4078-BA53-281107948019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CF47C1-98E5-45FF-8F0F-9464A24BEBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CF47C1-98E5-45FF-8F0F-9464A24BEBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CF47C1-98E5-45FF-8F0F-9464A24BEBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CF47C1-98E5-45FF-8F0F-9464A24BEBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365AEB02-8C40-475F-9D3F-1C07653E285A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365AEB02-8C40-475F-9D3F-1C07653E285A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365AEB02-8C40-475F-9D3F-1C07653E285A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365AEB02-8C40-475F-9D3F-1C07653E285A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
