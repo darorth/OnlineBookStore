@@ -8,7 +8,7 @@ namespace Lib.Models
     public class PaymentStatus
     {
         public int Id { get; set; }
-        public required string Name { get; set; }
+        public required PaymentStatusEnum Name { get; set; }
         public string? Remark { get; set; }
     }
 }

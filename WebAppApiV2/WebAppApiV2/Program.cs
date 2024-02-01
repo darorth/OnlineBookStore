@@ -36,6 +36,9 @@ app.MapGet("/weatherforecast", () =>
 .WithName("GetWeatherForecast")
 .WithOpenApi();
 
+// services.AddDbContext<AppDbContext>(options =>
+//                 options.UseNpgsql(Configuration.GetConnectionString("PostgresCN")));
+
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)

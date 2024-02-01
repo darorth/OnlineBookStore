@@ -11,5 +11,6 @@ namespace Lib.Models
         public required string Name { get; set; }
         public required string Value { get; set; }
         public string? Remark { get; set; }
+        
     }
 }
